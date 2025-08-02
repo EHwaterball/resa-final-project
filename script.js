@@ -37,7 +37,7 @@
         },
         {
             header: "<span style='font-size: .75em'>This website jumps straight into grammar, assuming you know a couple crucial prerequisite skills:</span>",
-            description: "1. You can pronounce the Korean alphabet (Hangul)<br>2. You can type in Hangul, or otherwise have a way for your browser to type in Hangul<br><br>Without these, you will still be able to go through the lessons, but their real world viability will be limited.<br><br>If you want to learn Hangul, you can find an interactive comprehensive online resource <a href='http://letslearnhangul.com/level/1/round/1/pre' target='_blank'>here</a>."
+            description: "1. You are familiar with the Korean alphabet (Hangul)<br>2. You can type in Hangul, or otherwise have a way for your browser to type in Hangul<br><br>Without these, you will still be able to go through the lessons, but their real world viability will be limited.<br><br>If you want to learn Hangul, you can find an interactive comprehensive online resource <a href='http://letslearnhangul.com/level/1/round/1/pre' target='_blank'>here</a>."
         },
         {
             header: "<span style='font-size: .75em'>The order of the lessons will strictly follow the order of the topics I've covered at Ewha Womans University</span>",
